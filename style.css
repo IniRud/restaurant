@@ -1,0 +1,32 @@
+/*.food-design{
+	background-image: url('/Users/Owner/Downloads/image/20200616_005232 (1).jpg');
+	background-size: 100%;*/
+
+.top-bar, .bottom-bar{
+	background-color: #EC672D;
+}
+
+.newsletters{
+	background-color: #EC672D;
+	color: white;
+}
+
+span{
+	color: red;
+}
+
+.employee-design{
+	background-image: url('/Users/Owner/Downloads/image/20180614_132312.jpg');
+	background-size: cover;
+}
+
+.startup{
+	background-image: url('/Users/Owner/Downloads/image/20200616_005232 (1).jpg');
+	background-size: cover;
+}
+
+
+.section-two, .section-four{
+	background: rgba(0,0,0,0.0001);
+}
+
